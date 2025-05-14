@@ -1,5 +1,5 @@
 # Langchain YT and WebsiteSummarization From URL
-
+### Deployed on streamlit : https://langchain-yt-and-websitesummarization-from-url-abzcamiezrr5l7y.streamlit.app/
 This is a Python-based text summarization project that extracts and summarizes transcripts from YouTube videos using LangChain and LLMs (Large Language Models). It uses the Groq API to interface with powerful LLMs like LLaMA or Mixtral.
 
 ## Features
